@@ -1,0 +1,19 @@
+A,Ribbon Cake,300,A0
+A,Cup Cake,50,A1
+A,Muffins,35,A2
+A,Buns,30,A3
+A,Pizza,60,A4
+B,Coca Cola,30,B0
+B,Beer,100,B1
+C,Beds,4500,C0
+C,Umbrells,5,C1
+A,Cheese Burger,50,A5
+B,Cocktail,40,B2
+A,Rolls,20,A6
+B,Coffee,10,B3
+B,Tea,10,B4
+B,Pepsi,20,B7
+B,lemonade,5,B8
+B,Soda,10,B9
+C,Lolipop,5,C2
+B,Mojito,20,B8
